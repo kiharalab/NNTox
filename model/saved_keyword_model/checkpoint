@@ -1,0 +1,2 @@
+model_checkpoint_path: "model_keyword"
+all_model_checkpoint_paths: "model_keyword"
