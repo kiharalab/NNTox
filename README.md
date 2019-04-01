@@ -17,7 +17,7 @@ Reference: Jain A., Kihara D. Gene Ontology based Protein Toxicity Prediciton Us
 ### Pre-required software
 
 Python 3 : https://www.python.org/downloads/  
-tensorflow : pip/conda install tensorflow==0.12  
+tensorflow : pip/conda install tensorflow
 
 ### Running the method
 
