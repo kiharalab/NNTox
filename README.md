@@ -52,7 +52,7 @@ Example runs:
 python propogate_goterms.py sampleIO/example2 sampleIO/example2_propogated  
 Output file: sampleIO/example2_propogated    
 
-Additional Data:
+#### Additional Data:
 Toxin and Non toxin proteins and their GOterms are provided in the data/uniprot_data.
 
 ### Funding  
