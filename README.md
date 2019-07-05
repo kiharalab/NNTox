@@ -52,5 +52,8 @@ Example runs:
 python propogate_goterms.py sampleIO/example2 sampleIO/example2_propogated  
 Output file: sampleIO/example2_propogated    
 
+Additional Data:
+Toxin and Non toxin proteins and their GOterms are provided in the data/uniprot_data.
+
 ### Funding  
 This study was sponsored by the Office of the Director of National Intel-ligence (ODNI), Intelligence Advanced Research Projects Activity (IARPA), via the Army Research Office (ARO) under cooperative Agree-ment Number W911NF-17-2-0105. DK also acknowledges support from the National Institute of General Medical Sciences of the NIH (R01GM123055) and the National Science Foundation (DMS1614777, CMMI1825941).  
